@@ -1,27 +1,27 @@
-# assinatura-digital
+# Assinatura Digital
 
 1 - Clonar o repositório
 
-```
- git clone https://github.com/jairoevaristo/assinatura-digital.git
 ```bash
+ git clone https://github.com/jairoevaristo/assinatura-digital.git
+```
 
 2 - Acessar a pasta do projeto
 
-```
- cd assinatura-digital
 ```bash
+ cd assinatura-digital
+```
 
 3 - Baixar as dependências
 
-```
- npm install
 ```bash
+ npm install
+```
 
 4 - Iniciar o servidor
 
-```
- npm run dev
 ```bash
+ npm run dev
+```
 
 Após essas etapas a aplicação ficará disponível em `http://localhost:3000/`
