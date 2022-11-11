@@ -24,4 +24,6 @@
  npm run dev
 ```
 
+<hr />
+
 Após essas etapas a aplicação ficará disponível em `http://localhost:3000/`
