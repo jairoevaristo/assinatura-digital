@@ -1,5 +1,11 @@
 # Assinatura Digital
 
+## Requerimentos
+
+ - Node Js - (v14+)
+
+<hr />
+
 1 - Clonar o repositório
 
 ```bash
